@@ -1,0 +1,3 @@
+﻿- Hướng dẫn đổi màu vùng chọn ta dùng công cụ Rectangle Tool
+- Cách thay đổi ảnh tại vùng chọn Rectangle Tool
++ Đặt tấm ảnh trên vùng chọn và chọn clipping mask nhé.
